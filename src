@@ -1,1 +1,21 @@
+def main():
+    """Основная функция приложения"""
+    print("Добро пожаловать в BrawlStars Analyzer!")
+    print("Загрузка данных...")
+    
+    # Здесь будет код для анализа статистики
+    analyze_brawlers()
+    analyze_players()
 
+def analyze_brawlers():
+    """Анализ персонажей Brawl Stars"""
+    print("Анализирую персонажей...")
+    # TODO: Добавить логику анализа
+
+def analyze_players():
+    """Анализ статистики игроков"""
+    print("Анализирую игроков...")
+    # TODO: Добавить логику анализа
+
+if name == "__main__":
+    main()
